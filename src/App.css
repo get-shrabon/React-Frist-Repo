@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px 200px;
+  width: 100%;
+  height: auto !important;
+}
+.name {
+  color: rgba(255, 99, 71, 0.655);
+}
+h3{
+  padding: 2px 0;
+}
+.actor__box{
+  border: 1px solid tomato;
+  width: 30%;
+  display: inline-block;
+  margin: 10px;
+  padding: 15px;
+  background-color: aliceblue;
+  border-radius: 15px;
+}
